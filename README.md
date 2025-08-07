@@ -1,6 +1,6 @@
 #FinCharm is an AI-powered conversational assistant built using IBM Cloud and Watsonx.ai Studio. It helps users understand and use digital financial tools safely and efficiently, with a special focus on fraud prevention, multilingual support, and user education.
 
-#🌟 Features
+🌟 #Features
 Multilingual support (English, Hindi, Tamil, Telugu, etc.)
 
 Education on UPI, digital banking, interest rates, budgeting, and fraud prevention
